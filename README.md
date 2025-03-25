@@ -1,17 +1,16 @@
 
-```markdown
+
 # Project Title
 
 A brief description of your project goes here. Summarize the goal of the project, the key features, or the problem it aims to solve. For example:
 > This project uses machine learning techniques to predict [specific outcome] based on [some dataset]. It includes data preprocessing, model training, and evaluation steps.
 
 ## Table of Contents
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Project Details](#project-details)
-- [License](#license)
+- [Project Structure]
+- [Getting Started]
+- [Dependencies]
+- [Usage]
+- [Project Details]
 
 ## Project Structure
 
