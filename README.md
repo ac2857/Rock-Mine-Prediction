@@ -6,11 +6,11 @@ A lightweight machine learning project that uses a predictive model to determine
 
 
 ## Table of Contents
-- [Project Structure]
-- [Getting Started]
-- [Dependencies]
-- [Usage]
-- [Project Details]
+- Project Structure
+- Getting Started
+- Dependencies
+- Usage
+- Project Details
 
 ## Project Structure
 
@@ -80,6 +80,6 @@ These instructions will help you set up your environment to run the notebook loc
 
 ## Results
 
-Accuracy on training data :  0.8342245989304813
-Accuracy on test data :  0.7619047619047619
+- Accuracy on training data :  0.8342245989304813 
+- Accuracy on test data :  0.7619047619047619
 
