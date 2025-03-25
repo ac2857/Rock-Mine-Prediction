@@ -1,9 +1,9 @@
 
 
-# Project Title
+# Rock vs Mine prediction Model
 
-A brief description of your project goes here. Summarize the goal of the project, the key features, or the problem it aims to solve. For example:
-> This project uses machine learning techniques to predict [specific outcome] based on [some dataset]. It includes data preprocessing, model training, and evaluation steps.
+A lightweight machine learning project that uses a predictive model to determine whether the object is a rock or a mine.
+
 
 ## Table of Contents
 - [Project Structure]
